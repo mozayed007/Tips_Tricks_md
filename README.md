@@ -1,4 +1,4 @@
-# Tips & Tricks <img src="[ez](https://www.pngfind.com/pngs/m/162-1620841_pepe-pepelicious-messages-sticker-7-ez-emote-transparent.png)" alt="ez" width="40" />
+# Tips & Tricks <img src="[ez](https://spng.pngfind.com/pngs/s/162-1620841_pepe-pepelicious-messages-sticker-7-ez-emote-transparent.png)"  width="40" />
 Guides to Tips that I found useful throughout my life for various things I do on my pc saved in md format.
 ## Tools list:
 - **YT-dlp**:
