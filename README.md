@@ -13,3 +13,11 @@ Guides to Tips that I found useful throughout my life for various things I do on
    </br>
        Toby extension: Toby is a browser extension that helps users save, manage, and organize their browser tabs efficiently. It allows users to create collections for organizing tabs and provides a clean interface for easy navigation. Toby also enables users to share collections with team members, facilitating collaboration and resource sharing.
   </br>
+- [**ublock**](uBlock_Origin.md):
+   </br>
+       uBlock Origin is a free, open-source, and efficient content blocker that removes ads, tracking, and malware domains from users' browsing experience, improving web page load times and enhancing privacy.
+   </br>
+- [**SponsorBlock**](SponsorBlock.md):
+   </br>
+       SponsorBlock is an open-source, crowdsourced browser extension that automatically skips sponsored segments in YouTube videos using a public database of user-submitted timestamps.
+   </br>
