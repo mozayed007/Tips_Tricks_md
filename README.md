@@ -1,4 +1,4 @@
-# Tips & Tricks <img src="[ez](https://cdn.7tv.app/emote/60dd13426ef5a66f4134f804/4x.webp)" alt="EZ"  width="40" />
+# Tips & Tricks <img src="https://cdn.7tv.app/emote/60dd13426ef5a66f4134f804/4x.webp" alt="EZ"  width="40" />
 Guides to Tips that I found useful throughout my life for various things I do on my pc saved in md format.
 ## Tools list:
 - **YT-dlp**:
